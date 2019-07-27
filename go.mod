@@ -1,4 +1,4 @@
-module github.com/takahashi-ke/go-grpc-echo
+module github.com/tacahac/go-grpc-echo
 
 go 1.12
 

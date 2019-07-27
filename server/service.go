@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	pb "github.com/takahashi-ke/go-grpc-echo/proto"
+	pb "github.com/tacahac/go-grpc-echo/proto"
 )
 
 type echoService struct {}
